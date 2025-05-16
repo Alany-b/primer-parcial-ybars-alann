@@ -6,12 +6,12 @@ body {
 
 /* ==== Navbar ==== */
 .navbar-nav .nav-link:hover {
-  color: #024bb8;
+  color: #0a182e;
 }
 
 /* ==== Header ==== */
 header {
-  background-color: #024bb8;
+  background-color: #0a182e;
 }
 
 header h1 {
@@ -20,7 +20,7 @@ header h1 {
 
 /* ==== Artículos ==== */
 article {
-  margin: 30px auto;
+  margin: 30 px auto;
 }
 
 /* ==== Títulos y subtítulos ==== */
@@ -32,17 +32,17 @@ article h3 {
 
 /* ==== Párrafos ==== */
 article p {
-  color: #024bb8;
+  color: #0a182e;
   font-size: 1rem;
-}
+} 
 
 /* ==== Footer ==== */
 footer {
-  background-color: #024bb8;
+  background-color: #0a182e;
   text-align: center;
   padding: 15px 0;
   margin-top: auto;
 }
 .color {
-  color: #024bb8;
+  color: #0a182e;
 }
